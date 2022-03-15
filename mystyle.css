@@ -1,0 +1,32 @@
+#header{
+    color: darksalmon;
+    font-family: "Lucida Handwriting", Times, serif;
+    font-weight: bold;
+    font-size: 50px;
+    padding: 20px 15px 20px 15px;
+}
+
+#header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.containers{
+    font-family: "Lucida Handwriting", Times, serif;
+    font-size: 15px;
+}
+
+h2 {
+    font-family: "Lucida Handwriting", Times, serif;
+    font-size: 15px;
+}
+
+.main-containers{
+    display: flex;
+}
+
+.containers{
+    padding-left: 50px;
+    padding-top: 150px;
+}
